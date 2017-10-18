@@ -1,5 +1,10 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings StylesheetUri="jar:file:/home/nelson/bin/idea-IU/plugins/markdown/lib/markdown.jar!/org/intellij/plugins/markdown/settings/darcula.css" />
+    <MarkdownCssSettings />
+    <MarkdownPreviewSettings UseGrayscaleRendering="true">
+      <HtmlPanelProviderInfo>
+        <ProviderInfo name="JavaFX WebView" className="org.intellij.plugins.markdown.ui.preview.javafx.JavaFxHtmlPanelProvider" />
+      </HtmlPanelProviderInfo>
+    </MarkdownPreviewSettings>
   </component>
 </application>
