@@ -58,9 +58,14 @@
   <action id="GuiDesigner.Duplicate" />
   <action id="Images.ShowThumbnails" />
   <action id="IntroduceParameter" />
+  <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="OverrideMethods" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
