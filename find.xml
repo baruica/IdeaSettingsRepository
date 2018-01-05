@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '.../xcase-services/src/main/java/fr/texa/itex [services]'" />
-    <option name="defaultScopeName" value="Directory '.../xcase-services/src/main/java/fr/texa/itex [services]'" />
+    <option name="customScope" value="Directory '.../case360-web/src/main/java/fr/texa/itex [sonora-web]'" />
+    <option name="defaultScopeName" value="Directory '.../case360-web/src/main/java/fr/texa/itex [sonora-web]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../xcase-services/src/main/java/fr/texa/itex [services]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../case360-web/src/main/java/fr/texa/itex [sonora-web]'" />
   </component>
 </application>
