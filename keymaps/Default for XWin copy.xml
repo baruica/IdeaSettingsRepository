@@ -52,7 +52,6 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
-  <action id="GotoTest" />
   <action id="GuiDesigner.Duplicate" />
   <action id="Images.ShowThumbnails" />
   <action id="IntroduceParameter" />
@@ -70,6 +69,7 @@
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt j" />
     <keyboard-shortcut first-keystroke="ctrl d" />
