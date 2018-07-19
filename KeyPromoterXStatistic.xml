@@ -14,7 +14,7 @@
           <IdeaActionID>CloseProject</IdeaActionID>
           <ShortCut>'Alt Graph+P'</ShortCut>
           <Description>Close Project</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
