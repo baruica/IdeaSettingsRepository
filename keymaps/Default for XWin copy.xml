@@ -37,7 +37,9 @@
   <action id="EditorDeleteLine" />
   <action id="EditorDuplicate" />
   <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageBottomWithSelection" />
   <action id="EditorMoveToPageTop" />
+  <action id="EditorMoveToPageTopWithSelection" />
   <action id="EditorNextWord" />
   <action id="EditorPreviousWord" />
   <action id="EditorSelectWord" />
@@ -96,5 +98,13 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="XDebugger.CopyWatch" />
+  <action id="com.mnw.tabmover.actions.MoveTabDownAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
+    <keyboard-shortcut first-keystroke="shift ctrl page_down" />
+  </action>
+  <action id="com.mnw.tabmover.actions.MoveTabUpAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
+    <keyboard-shortcut first-keystroke="shift ctrl page_up" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
