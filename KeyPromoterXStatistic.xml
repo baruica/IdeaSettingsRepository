@@ -38,7 +38,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open...">
@@ -62,6 +62,22 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Quick Switch Scheme...">
+        <Item>
+          <IdeaActionID>QuickChangeScheme</IdeaActionID>
+          <ShortCut>'Ctrl+`'</ShortCut>
+          <Description>Quick Switch Scheme...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'GildedRoseTest.should_degrade_quality_twice_as_fast_when_sell_by_date_has_passed'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F11'</ShortCut>
+          <Description>Rerun 'GildedRoseTest.should_degrade_quality_twice_as_fast_when_sell_by_date_has_passed'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
