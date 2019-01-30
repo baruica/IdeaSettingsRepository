@@ -3,7 +3,7 @@
     <option name="FONT_SIZE" value="15" />
     <option name="FONT_FAMILY" value="Fira Code" />
     <option name="USE_LIGATURES" value="true" />
-    <option name="SECONDARY_FONT_FAMILY" value="Hack" />
+    <option name="SECONDARY_FONT_FAMILY" value="DejaVu Sans Mono" />
   </component>
   <component name="EditorSettings">
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
@@ -13,6 +13,9 @@
     <option name="IS_DND_ENABLED" value="false" />
     <option name="SHOW_INLINE_DIALOG" value="false" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
+  </component>
+  <component name="JetEditorOptions">
+    <option name="donTShowConversionDialog" value="true" />
   </component>
   <component name="XmlEditorOptions">
     <option name="tagTreeHighlightingEnabled" value="false" />
