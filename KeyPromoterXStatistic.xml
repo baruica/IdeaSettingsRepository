@@ -154,5 +154,13 @@
         </Item>
       </Statistic>
     </option>
+    <option name="suppressed">
+      <Statistic Action="Import Project">
+        <Item>
+          <IdeaActionID>WelcomeScreen.ImportProject</IdeaActionID>
+          <Description>Import Project</Description>
+        </Item>
+      </Statistic>
+    </option>
   </component>
 </application>
