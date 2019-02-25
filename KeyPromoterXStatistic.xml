@@ -17,6 +17,14 @@
           <Count>21</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Comment with Line Comment">
+        <Item>
+          <IdeaActionID>CommentByLineComment</IdeaActionID>
+          <ShortCut>'Ctrl+/' or 'Ctrl+NumPad /'</ShortCut>
+          <Description>Comment with Line Comment</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Commit...">
         <Item>
           <IdeaActionID>CheckinProject</IdeaActionID>
@@ -46,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>4</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Inline...">
@@ -62,7 +70,7 @@
           <IdeaActionID>ExtractMethod</IdeaActionID>
           <ShortCut>'Alt+Shift+M'</ShortCut>
           <Description>Method...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open...">
@@ -97,6 +105,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Refactor This...">
+        <Item>
+          <IdeaActionID>Refactorings.QuickListPopupAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+T'</ShortCut>
+          <Description>Refactor This...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'GildedRoseTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -110,6 +126,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F11'</ShortCut>
           <Description>Rerun 'GildedRoseTest.should_degrade_quality_twice_as_fast_when_sell_by_date_has_passed'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'TripServiceTest.toto'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'TripServiceTest.toto'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -134,6 +158,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'GildedRoseTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'TripServiceTest.toto'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'TripServiceTest.toto'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -174,7 +206,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DashboardServiceImplTest.enregistrerFiltre_should_persist_when_filters_already_exist'">
