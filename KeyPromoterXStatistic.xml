@@ -169,6 +169,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'All in salle-de-sport'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'All in salle-de-sport'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'GildedRoseTest'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
