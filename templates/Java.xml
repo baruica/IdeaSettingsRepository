@@ -1,0 +1,8 @@
+<templateSet group="Java">
+  <template name="test" value="@Test&#10;public void $TESTNAME$() {&#10;    // given&#10;    $END$&#10;    // when&#10;        &#10;    // then&#10;}" toReformat="false" toShortenFQNames="true">
+    <variable name="TESTNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
