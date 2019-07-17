@@ -14,7 +14,7 @@
           <IdeaActionID>CloseProject</IdeaActionID>
           <ShortCut>'Alt Graph+P'</ShortCut>
           <Description>Close Project</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Comment with Line Comment">
@@ -238,7 +238,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DashboardServiceImplTest.enregistrerFiltre_should_persist_when_filters_already_exist'">
