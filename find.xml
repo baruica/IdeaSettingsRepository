@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '.../Classes'" />
-    <option name="defaultScopeName" value="Directory '.../Classes'" />
+    <option name="customScope" value="Directory '.../WebServices'" />
+    <option name="defaultScopeName" value="Directory '.../WebServices'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../Classes'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../WebServices'" />
   </component>
 </application>
