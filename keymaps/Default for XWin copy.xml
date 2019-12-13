@@ -51,9 +51,6 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
-  <action id="GotoTest">
-    <keyboard-shortcut first-keystroke="ctrl t" />
-  </action>
   <action id="GuiDesigner.Duplicate" />
   <action id="Images.ShowThumbnails" />
   <action id="IntroduceParameter" />
@@ -65,9 +62,6 @@
   </action>
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
-  </action>
-  <action id="ReopenClosedTab">
-    <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt j" />
