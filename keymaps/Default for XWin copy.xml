@@ -13,6 +13,7 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -55,7 +56,7 @@
   <action id="Images.ShowThumbnails" />
   <action id="IntroduceParameter" />
   <action id="ManageRecentProjects">
-    <keyboard-shortcut first-keystroke="shift alt p" />
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
@@ -64,13 +65,14 @@
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="RecentProjectListGroup">
-    <keyboard-shortcut first-keystroke="ctrl alt p" />
+    <keyboard-shortcut first-keystroke="shift alt p" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt j" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SendEOF" />
+  <action id="ServiceView.GroupByServiceGroups" />
   <action id="ShelvedChanges.Diff" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
@@ -87,6 +89,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="TodoViewGroupByShowPackages" />
   <action id="UpdateRunningApplication" />
   <action id="XDebugger.CopyWatch" />
   <action id="android.deploy.ApplyChanges">
