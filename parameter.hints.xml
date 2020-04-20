@@ -1,5 +1,13 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists />
+    <disabledLanguages>
+      <language id="TypeScript" />
+      <language id="XML" />
+      <language id="JavaScript" />
+      <language id="PHP" />
+      <language id="Groovy" />
+      <language id="SQL" />
+      <language id="yaml" />
+    </disabledLanguages>
   </component>
 </application>
